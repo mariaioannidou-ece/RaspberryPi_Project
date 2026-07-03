@@ -29,3 +29,4 @@ The application is divided into three distinct threads:
 To compile the system on the Raspberry Pi, simply navigate to the project directory and run the provided Makefile:
 ```bash
 make
+To run the telemetry system: ./telemetry_system
