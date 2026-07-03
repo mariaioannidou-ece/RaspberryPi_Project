@@ -24,3 +24,8 @@ The application is divided into three distinct threads:
 * Multithreading: `pthreads` (Mutexes, Condition Variables)
 * Networking: `libwebsockets`
 * JSON Parsing: `cJSON`
+
+## 🚀 Compilation & Execution
+To compile the system on the Raspberry Pi, simply navigate to the project directory and run the provided Makefile:
+```bash
+make
